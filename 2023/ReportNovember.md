@@ -1,7 +1,47 @@
-# Overview 
+# Blog 
 
-The goal of this project is to document my 
-contributions in open source projects.
+This blog was started to document my open source 
+contributions. The changes are documented in the
+projects themselves, but redisplayed here too, 
+as it is easier to view them in one place.
+
+# SWARMBJECT 
+
+High level programming language and 
+graphical development environment.
+
+## About menu 
+
+Before this commit, upon starting the application, 
+a welcoming text and the license were displayed in 
+the area designated for code editing, and 
+disappeared upon opening a file. Now the 
+application starts by displaying them in a newly 
+added about menu. This fixes the issue of having 
+an empty top bar at the beginning (since it 
+contains the opened file's path, but there is no 
+file opened yet), and also makes it possible to 
+redisplay this information, without having to 
+reopen the application.
+
+# Lexikonarium 
+
+Lexikonarium is about creating dictionaries 
+for self learning purposes.
+
+## About menu 
+
+Just like with the SWARMBJECT project, an about 
+menu was added here too for the same benefits. 
+(Previously they were displayed in the area 
+designated for displaying the dictionary meanings.)
+
+## Labels 
+
+Previously the meaning and text areas were 
+unlabeled, maximizing screen space, but being user 
+unfriendly, by having to know where they are 
+without a visual guide. Now they are labeled.
 
 # Support 
 
@@ -11,18 +51,6 @@ Current goal is to make full time open source
 developer status a possibility. For details 
 please read [/docs/support.md](support.md).
 Thank you.
-
-# Entries 
-
-## 2023 
-
-[/2023/ReportNovember.md](Progress Report November).
-
-# Contribute 
-
-Read [/docs/CONTRIBUTE.md](CONTRIBUTE.md).
-
-# Software license
 
 Copyright (c) 2023 kekuchan's Blog contributors
 
@@ -164,4 +192,8 @@ SUCH DAMAGE.
 
 Includes text using the same license,
 from the SWARMBJECT development environment:
-Copyright (c) 2021-2022 SWARMBJECT contributors
+Copyright (c) 2021-2023 SWARMBJECT contributors
+
+Includes text using the same license,
+from the Lexikonarium project:
+Copyright (c) 2023 Lexikonarium contributors

@@ -1,26 +1,26 @@
-# Overview 
+# Donate 
 
-The goal of this project is to document my 
-contributions in open source projects.
+As currently the free time available to spend on 
+developing open source projects is very limited,
+to fix this issue, the current goal is to make 
+full time open source developer status a possibility.
 
-# Support 
+Thank you for your generousity.
 
-Support is always well appreciated, either by 
-spreading the word, or by generous donations.
-Current goal is to make full time open source 
-developer status a possibility. For details 
-please read [/docs/support.md](support.md).
-Thank you.
+# Projects 
 
-# Entries 
+Feel free to contribute or spread the word 
+(please do not spam it though).
 
-## 2023 
+## SWARMBJECT 
 
-[/2023/ReportNovember.md](Progress Report November).
+High level programming language and 
+graphical development environment.
 
-# Contribute 
+## Lexikonarium 
 
-Read [/docs/CONTRIBUTE.md](CONTRIBUTE.md).
+Lexikonarium is about creating dictionaries 
+for self learning purposes.
 
 # Software license
 
@@ -164,4 +164,8 @@ SUCH DAMAGE.
 
 Includes text using the same license,
 from the SWARMBJECT development environment:
-Copyright (c) 2021-2022 SWARMBJECT contributors
+Copyright (c) 2021-2023 SWARMBJECT contributors
+
+Includes text using the same license,
+from the Lexikonarium project:
+Copyright (c) 2023 Lexikonarium contributors
