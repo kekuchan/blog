@@ -9,18 +9,18 @@ Support is always well appreciated, either by
 spreading the word, or by generous donations.
 Current goal is to make full time open source 
 developer status a possibility. For details 
-please read [/docs/support.md](support.md).
+please read [support.md](/docs/support.md).
 Thank you.
 
 # Entries 
 
 ## 2023 
 
-[/2023/ReportNovember.md](Progress Report November).
+[Progress Report November](/2023/ReportNovember.md).
 
 # Contribute 
 
-Read [/docs/CONTRIBUTE.md](CONTRIBUTE.md).
+Read [CONTRIBUTE.md](/docs/CONTRIBUTE.md).
 
 # Software license
 
