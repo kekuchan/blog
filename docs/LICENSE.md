@@ -1,27 +1,3 @@
-# Overview 
-
-The goal of this project is to document my 
-contributions in open source projects.
-
-# Support 
-
-Support is always well appreciated, either by 
-spreading the word, or by generous donations.
-Current goal is to make full time open source 
-developer status a possibility. For details 
-please read [/docs/support.md](support.md).
-Thank you.
-
-# Entries 
-
-## 2023 
-
-[/2023/ReportNovember.md](Progress Report November).
-
-# Contribute 
-
-Read [/docs/CONTRIBUTE.md](CONTRIBUTE.md).
-
 # Software license
 
 Copyright (c) 2023 kekuchan's Blog contributors
@@ -161,7 +137,3 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
 ARISING IN ANY WAY OUT OF THE USE OF THIS
 DOCUMENTATION, EVEN IF ADVISED OF THE POSSIBILITY OF
 SUCH DAMAGE.
-
-Includes text using the same license,
-from the SWARMBJECT development environment:
-Copyright (c) 2021-2022 SWARMBJECT contributors
