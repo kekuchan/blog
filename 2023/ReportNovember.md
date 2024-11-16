@@ -49,8 +49,10 @@ Support is always well appreciated, either by
 spreading the word, or by generous donations.
 Current goal is to make full time open source 
 developer status a possibility. For details 
-please read [/docs/support.md](support.md).
+please read [support.md](/docs/support.md).
 Thank you.
+
+# Software license
 
 Copyright (c) 2023 kekuchan's Blog contributors
 
